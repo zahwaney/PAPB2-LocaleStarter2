@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="description">Nougat adalah keluarga permen yang dibuat dengan gula atau madu, kacang panggang (almond, walnut, pistachio, hazelnut, dan kacang macadamia yang umum), putih telur kocok, dan terkadang manisan buah yang dicincang. Ini digunakan dalam berbagai permen dan cokelat.</string>
+    <string name="action_help">Bantuan</string>
+    <string name="help_text">Jika Anda memerlukan bantuan, hubungi Departemen Dukungan kami.</string>
+    <string name="total_to_pay">"Total : "</string>
+    <string name="quantity_label">Kuantitas :</string>
+    <string name="enter_a_number">Masukkan Jumlah</string>
+    <string name="enter_number">Masukkan Jumlah</string>
+    <string name="price_label">"Harga per kemasan : "</string>
+    <string name="expiration_date">Tanggal Kadaluwarsa :</string>
+    <string name="language">Bahasa</string>
+</resources>
